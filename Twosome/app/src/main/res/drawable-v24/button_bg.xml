@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="30dp"
+    android:shape="rectangle"> <!--10dp 만큼 각모서리에-->
+    <solid android:color="#66E91E63"/> <!--내부 색 설정-->
+
+    <corners
+        android:topLeftRadius="12dp"
+        android:bottomLeftRadius="12dp"
+        android:bottomRightRadius="12dp"
+        android:topRightRadius="12dp"/>
+    <!--순서대로 좌측 상단, 좌측 하단, 우측 하단, 우측 상당에
+    12dp에 해당하는 만큼 둥글게 만들겠다.-->
+</shape>
