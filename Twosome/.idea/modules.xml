@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TwoSomeDB2.iml" filepath="$PROJECT_DIR$/TwoSomeDB2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TwoSomeDB2-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TwoSomeDB2-app.iml" group="TwoSomeDB2/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Twosome-TwoSomeDB2.iml" filepath="$PROJECT_DIR$/.idea/modules/Twosome-TwoSomeDB2.iml" group="TwoSomeDB2" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
